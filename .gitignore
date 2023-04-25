@@ -1,0 +1,9 @@
+.vscode
+artifacts
+node_modules
+scripts
+test
+.env
+hardhat.config.js
+package-lock.json
+package.json
